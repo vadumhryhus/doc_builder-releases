@@ -3,6 +3,18 @@
   <channel>
     <title>Doc Builder</title>
     <item>
+      <title>Версія 1.1.1</title>
+      <pubDate>Mon, 12 Oct 2026 15:47:26 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Що нового:</li><li>На Windows у заголовку вікна знову є кнопки «Згорнути» і «Розгорнути».</li></ul>]]></description>
+      <enclosure url="https://github.com/vadumhryhus/doc_builder-releases/releases/download/v1.1.1/DocBuilder-1.1.1-macos.zip"
+                 sparkle:edSignature="413LCEQcOWK8QU0OTwedXl6iGvqMrZVQt7XfdOb58WaV2MfrP7ZHkkvODUOhM/ekJq3Ds1BDT9cRddyFpHLQBQ=="
+                 length="44201644"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Версія 1.1.0</title>
       <pubDate>Mon, 12 Oct 2026 15:23:07 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
