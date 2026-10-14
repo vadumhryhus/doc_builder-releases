@@ -3,6 +3,18 @@
   <channel>
     <title>Doc Builder</title>
     <item>
+      <title>Версія 1.2.0</title>
+      <pubDate>Wed, 14 Oct 2026 09:37:27 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Що нового:</li><li>Вхід через особистий акаунт. Нові акаунти схвалює адміністратор.</li><li>PIN і Touch ID на своєму комп'ютері.</li><li>До 16.10 включно ще діє старий пароль.</li></ul>]]></description>
+      <enclosure url="https://github.com/vadumhryhus/doc_builder-releases/releases/download/v1.2.0/DocBuilder-1.2.0-macos.zip"
+                 sparkle:edSignature="Xz0RHph5cHMTrYYPxVrDVbPVWowWuNYGukYPA8hIUFLxLaKzWX6kzYI4ItOIci4i/RCTql5KpfpeEcXd4LXqCA=="
+                 length="44295872"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Версія 1.1.1</title>
       <pubDate>Mon, 12 Oct 2026 15:47:26 GMT</pubDate>
       <sparkle:version>3</sparkle:version>

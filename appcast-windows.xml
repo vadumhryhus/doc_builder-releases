@@ -3,6 +3,19 @@
   <channel>
     <title>Doc Builder</title>
     <item>
+      <title>Версія 1.2.0</title>
+      <pubDate>Wed, 14 Oct 2026 09:37:27 GMT</pubDate>
+      <sparkle:version>1.2.0+4</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Що нового:</li><li>Вхід через особистий акаунт. Нові акаунти схвалює адміністратор.</li><li>PIN і Touch ID на своєму комп'ютері.</li><li>До 16.10 включно ще діє старий пароль.</li></ul>]]></description>
+      <enclosure url="https://github.com/vadumhryhus/doc_builder-releases/releases/download/v1.2.0/DocBuilder-Setup-1.2.0.exe"
+                 sparkle:edSignature="vtZexqUMON4c/DqY4kzWIpWoiydqqOyIOk0UKXsbkGKecLNX/+2p9ZkuHHHgKvyiZGEHoQhT/2a2nxy4TfdeCQ=="
+                 length="47093099"
+                 sparkle:os="windows"
+                 sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /NOCANCEL"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Версія 1.1.1</title>
       <pubDate>Mon, 12 Oct 2026 15:47:26 GMT</pubDate>
       <sparkle:version>1.1.1+3</sparkle:version>
