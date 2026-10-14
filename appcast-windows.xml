@@ -3,6 +3,19 @@
   <channel>
     <title>Doc Builder</title>
     <item>
+      <title>Версія 1.2.1</title>
+      <pubDate>Wed, 14 Oct 2026 09:47:32 GMT</pubDate>
+      <sparkle:version>1.2.1+5</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Що нового:</li><li>На Windows вхід через Windows Hello замість PIN-коду щоразу.</li></ul>]]></description>
+      <enclosure url="https://github.com/vadumhryhus/doc_builder-releases/releases/download/v1.2.1/DocBuilder-Setup-1.2.1.exe"
+                 sparkle:edSignature="KZuZN4TGWP0aoOuUJl0BnpsheRBxjgJW3rLBaU9lta622PPsfa6zNaukfwxMe6rkEudPAtBJUWmvip83YBBUBw=="
+                 length="47088151"
+                 sparkle:os="windows"
+                 sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /NOCANCEL"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Версія 1.2.0</title>
       <pubDate>Wed, 14 Oct 2026 09:37:27 GMT</pubDate>
       <sparkle:version>1.2.0+4</sparkle:version>
