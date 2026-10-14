@@ -3,6 +3,19 @@
   <channel>
     <title>Doc Builder</title>
     <item>
+      <title>Версія 1.2.2</title>
+      <pubDate>Wed, 14 Oct 2026 10:03:30 GMT</pubDate>
+      <sparkle:version>1.2.2+6</sparkle:version>
+      <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
+      <description><![CDATA[<ul><li>Що нового:</li><li>Друк одного аркуша для кількох людей одним файлом.</li><li>Вибірки людей можна зберегти й застосовувати одним кліком.</li></ul>]]></description>
+      <enclosure url="https://github.com/vadumhryhus/doc_builder-releases/releases/download/v1.2.2/DocBuilder-Setup-1.2.2.exe"
+                 sparkle:edSignature="luKiyL5yaS9WhjCe9pDTXFDntjUIcX8b9hlB6opXNNJcZeFiljrWnYsa/+dLjRwes+hxkdcP9PWsTVo7O3FDBQ=="
+                 length="47105897"
+                 sparkle:os="windows"
+                 sparkle:installerArguments="/SILENT /SP- /SUPPRESSMSGBOXES /NOCANCEL"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Версія 1.2.1</title>
       <pubDate>Wed, 14 Oct 2026 09:47:32 GMT</pubDate>
       <sparkle:version>1.2.1+5</sparkle:version>
